@@ -3,7 +3,7 @@
   "theme": "syntax",
   "version": "0.0.0",
   "description": "High contrast theme",
-  "repository": "https://github.com/atom/contrast-syntax",
+  "repository": "https://github.com/michardy/contrast-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"

@@ -1,3 +1,3 @@
 # contrast-syntax theme
 
-A theme that increases text contrast
+A non subtle theme that increases text contrast
