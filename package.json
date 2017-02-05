@@ -1,7 +1,7 @@
 {
   "name": "contrast-syntax",
   "theme": "syntax",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "description": "High contrast theme",
   "repository": "https://github.com/michardy/contrast-syntax",
   "license": "MIT",
